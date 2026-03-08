@@ -1,0 +1,12 @@
+# Sensitive files
+*.png
+*.jpg
+*.jpeg
+desktop-backup-*.json
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
