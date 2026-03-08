@@ -1,0 +1,56 @@
+{
+  "backupDate": "2026-03-03T15:29:00+08:00",
+  "description": "桌面布局备份 - 整理前",
+  "restoreNote": "运行 restore-desktop.ps1 可查看原始布局信息"
+}
+  "items": {
+    "folders": [
+      "AI",
+      "hjd",
+      "工作文件",
+      "大一下",
+      "大学",
+      "学校",
+      "新建文件夹",
+      "毕设",
+      "毕业设计"
+    ],
+    "files": [
+      {"name": "1.cpp", "type": "code"},
+      {"name": "bookmarks.html", "type": "browser"},
+      {"name": "Cursor.lnk", "type": "shortcut"},
+      {"name": "c_practice_all.lnk", "type": "shortcut"},
+      {"name": "EV 驱动安装.lnk", "type": "shortcut"},
+      {"name": "favorites_2025_5_4.html", "type": "browser"},
+      {"name": "FinalShell.lnk", "type": "shortcut"},
+      {"name": "Firefox.exe", "type": "program"},
+      {"name": "Firestone.lnk", "type": "shortcut"},
+      {"name": "geek.exe", "type": "program"},
+      {"name": "Git-2.53.0-64-bit.exe", "type": "installer"},
+      {"name": "Google Chrome.lnk", "type": "shortcut"},
+      {"name": "Inphic IN9 Gaming Mouse.lnk", "type": "shortcut"},
+      {"name": "Linux.lnk", "type": "shortcut"},
+      {"name": "node-v24.14.0-x64.msi", "type": "installer"},
+      {"name": "Oopz.lnk", "type": "shortcut"},
+      {"name": "Qianwen_V2.3.1@@@dapi-13852e4b-37b2-4bdb-94e6-1c706ad0da9d@@@.exe", "type": "installer"},
+      {"name": "TencentDocs-x86_64.exe", "type": "installer"},
+      {"name": "Visual Studio 2022.lnk", "type": "shortcut"},
+      {"name": "Visual Studio Code.lnk", "type": "shortcut"},
+      {"name": "VMWare 安装教程.lnk", "type": "shortcut"},
+      {"name": "WinZips.lnk", "type": "shortcut"},
+      {"name": "本科生毕业论文 (设计) 任务书.docx", "type": "document"},
+      {"name": "思维导图 MindMaster.lnk", "type": "shortcut"},
+      {"name": "医院证明.pdf", "type": "document"},
+      {"name": "千问.lnk", "type": "shortcut"},
+      {"name": "腾讯会议.lnk", "type": "shortcut"},
+      {"name": "腾讯文档.exe", "type": "program"},
+      {"name": "毕业设计论文.docx", "type": "document"},
+      {"name": "暴雪战网.lnk", "type": "shortcut"},
+      {"name": "百度翻译.lnk", "type": "shortcut"},
+      {"name": "课表 2401 毕设 120241280105.doc", "type": "document"},
+      {"name": "远程桌面.lnk", "type": "shortcut"},
+      {"name": "音乐应用程序.lnk", "type": "shortcut"},
+      {"name": "表格 - 课程设计.docx", "type": "document"}
+    ]
+  }
+}
