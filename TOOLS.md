@@ -54,4 +54,34 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## 🔑 API 配置（敏感信息）
+
+### Todoist
+- **API Token:** `17903c8266ce2084046eb1baf74bf012acc63bd8`
+- **状态:** 已认证
+- **客户端:** Windows 桌面版 + 鸿蒙 Android 版
+
+### Obsidian
+- **仓库路径:** `D:\Obsidian-OpenClaw\OpenClaw`
+- **HTTP API:** 已启用 (端口 27123)
+- **API Key:** `0661f14ffed0b1df02c42dd6103c977fed2f195583478d1710b116944e9c7a21`
+
+### Gemini API
+- **API Key:** `AIzaSyA9oUURaQFuHQNebn98MUWkpWPBfo0OYUI`
+- **用途:** Summarize + Nano Banana Pro
+
+---
+
+## 🛠️ 工具路径
+
+### FFmpeg
+- **路径:** `C:\Users\bljd5\AppData\Local\Microsoft\WinGet\Links\ffmpeg.exe`
+- **版本:** 8.0.1
+
+### Git 配置
+- **用户名:** Hjd213
+- **邮箱:** 2143751508@qq.com
+
+---
+
 Add whatever helps you do your job. This is your cheat sheet.
