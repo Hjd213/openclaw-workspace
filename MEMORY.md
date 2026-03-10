@@ -178,6 +178,18 @@ D:\Obsidian-OpenClaw\OpenClaw\         # Obsidian 笔记库
 - [ ] 实际使用文本润色功能（Humanizer 技能已就绪）
 - [ ] 可能需要配置 Perplexity API Key（用于更全面的资讯搜索）
 - [ ] 考虑是否需要连接更多服务（日历、邮件等）
+- [ ] **内存搜索（Embedding）** - 暂时未配置（2026-03-10 决定）
+  - 原因：没有信用卡给 OpenAI 充值
+  - 未来方案：等有国际支付能力后配置 OpenAI `text-embedding-3-small`，或改用本地模型
+
+---
+
+## 📝 配置决策记录
+
+### 2026-03-10
+- **内存搜索暂未配置** - 尝试配置 Gemini embedding 失败（OpenClaw 不支持），考虑 OpenAI 但无信用卡无法充值，决定日后配置
+- **Gateway 重启规则** - 用户要求 Gateway 重启必须手动执行，AI 不能自动调用 `gateway restart`
+- **定时任务修复** - 记忆整理任务改为 systemEvent 模式，AI 资讯晨报超时时间延长至 600 秒
 
 ---
 
