@@ -1,7 +1,7 @@
 # MEMORY.md - 长期记忆
 
 > 📅 创建时间：2026-03-09  
-> 🔄 最后更新：2026-03-09 20:30（每日记忆整理）  
+> 🔄 最后更新：2026-03-10 20:30（每日记忆整理）  
 > 📝 说明：这是 curated 长期记忆，包含重要决定、偏好、经验。每日记忆在 `memory/YYYY-MM-DD.md`
 
 ---
@@ -190,6 +190,38 @@ D:\Obsidian-OpenClaw\OpenClaw\         # Obsidian 笔记库
 - **内存搜索暂未配置** - 尝试配置 Gemini embedding 失败（OpenClaw 不支持），考虑 OpenAI 但无信用卡无法充值，决定日后配置
 - **Gateway 重启规则** - 用户要求 Gateway 重启必须手动执行，AI 不能自动调用 `gateway restart`
 - **定时任务修复** - 记忆整理任务改为 systemEvent 模式，AI 资讯晨报超时时间延长至 600 秒
+
+---
+
+## 📚 2026-03-10 重要任务记录
+
+### 导师任务：竞品分析报告
+
+**任务背景：** 导师布置的竞品分析任务（飞书任务）  
+**截止日期：** 2026-03-20  
+**目标提交：** 2026-03-15（预留 5 天修改）
+
+**任务内容：**
+1. Cluely 试用 + 分析报告
+2. Glass.io 试用 + 分析报告
+3. 综合对比分析（优缺点总结 + 两者对比）
+
+**产品选择：**
+- **Cluely 赛道（AI 会议助手）：** Cluely、Fireflies.ai、Otter.ai、Grain
+- **Glass.io 赛道（网站客户互动）：** Glass.io、Intercom、Drift、Crisp
+
+**今日进度（3/10）：**
+- ✅ Cluely 深度体验完成（1 小时）
+  - 发现：Output Language 支持中文，但 Transcription Language 不支持
+  - 发现：AI 只能针对当前会议提问，无跨会议记忆
+  - 完成评估报告
+- ✅ Otter.ai 注册完成
+  - 发现：支持跨会议 AI 问答（核心优势）
+  - 发现：AI Chat 支持中文对话
+  - 发现：支持文件上传转录
+- ⏳ Fireflies.ai 需要信用卡，暂时跳过
+
+**工作区位置：** `C:\Users\bljd5\Desktop\产品分析\`
 
 ---
 
