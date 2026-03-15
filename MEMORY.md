@@ -208,40 +208,48 @@ D:\Obsidian-OpenClaw\OpenClaw\         # Obsidian 笔记库
 **截止日期：** 2026-03-20  
 **目标提交：** 2026-03-15（预留 5 天修改）
 
-### 🔄 任务方向调整（2026-03-13）
+### 任务方向调整（2026-03-13）
 
 **原始理解：** Glass.io（网站客户互动平台）  
 **实际任务：** Glass 桌面助手（GitHub 开源项目）
 
 **调整原因：** 用户与导师确认，导师说"在 GitHub 上搜 glass"
 
-**清理操作：**
-- ✅ 删除 GitHub 测试仓库（Hjd213/glass-test）
-- ✅ 删除本地测试文件（glass-test.html）
-- ✅ 清理相关记录
+**项目地址：** https://github.com/pickle-com/glass
 
-**工作区位置：** `C:\Users\bljd5\Desktop\产品分析\`
+### 文件结构优化（2026-03-15）
 
-### 已完成报告（保留）
+**核心报告（3 个，提交用）：**
+- `01-Cluely 分析报告.md` - Cluely 深度分析
+- `02-Glass 分析报告.md` - Glass 深度分析
+- `03-Cluely vs Glass 对比分析.md` - 两产品直接对比
+
+**辅助材料（放入 04-额外资料/）：**
+- 竞品参考资料（Fireflies、Otter、Grain 等）
+- 模板文件
+- 截图
+- Word 版本（等导师需要再转换）
+
+### 已完成报告
 
 **Cluely 赛道（AI 会议助手）：**
 - ✅ Cluely 深度体验完成（2 小时）
 - ✅ Otter.ai 注册完成
 - ⏳ Fireflies.ai 需要信用卡，跳过
 - ✅ 完成 `01-Cluely 分析报告.md`
-- ✅ 完成 `04-Cluely 赛道对比总结.md`
 
-**Glass.io 赛道报告（基于资料调研）：**
-- ✅ 完成 4 份单产品报告（Glass.io、Intercom、Crisp、Drift）
-- ✅ 完成 `05-Glass.io 赛道对比总结.md`
-- ✅ 完成 `03-综合对比分析.md`
-- 📋 保留报告，等待导师确认是否需要
+**Glass 桌面助手：**
+- ✅ 项目已克隆到 `C:\Users\bljd5\Desktop\glass\`
+- ⏳ 安装失败（Node 24 不兼容 + 缺少 ClangCL 编译工具）
+- ⏳ 报告待完成（可先写资料版，标注"待实测验证"）
 
 ### 下一步
 
-- [ ] 在 GitHub 搜索 `glass`、`glass ai`、`glass-desktop`、`open-glass`
-- [ ] 确认导师具体指的是哪个 Glass 项目
-- [ ] 根据确认结果调整后续工作
+- [ ] 解决 Glass 安装问题（降级 Node 或装编译工具）
+- [ ] Glass 深度体验 + 截图
+- [ ] 完成 Glass 分析报告
+- [ ] 完成 Cluely vs Glass 对比分析
+- [ ] 整合提交（3 月 15 日）
 
 ---
 
