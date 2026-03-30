@@ -67,8 +67,10 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - **API Key:** `0661f14ffed0b1df02c42dd6103c977fed2f195583478d1710b116944e9c7a21`
 
 ### Gemini API
-- **API Key:** `AIzaSyA9oUURaQFuHQNebn98MUWkpWPBfo0OYUI`
+- **API Key:** `AIzaSyACbet0rzj9u1Wt3inkZ4e_cJqFlUCWlaw`
 - **用途:** Summarize + Nano Banana Pro
+- **更新:** 2026-03-30（旧 Key 因泄露被封禁，已更换）
+- **提醒:** 节约使用，避免高频调用触发风控
 
 ---
 
