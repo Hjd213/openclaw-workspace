@@ -1,6 +1,6 @@
 # OpenClaw 使用指南 - 黄健东版
 
-> 📅 最后更新：2026-03-30  
+> 📅 最后更新：2026-04-06  
 > 👤 配置者：Hjd213 (黄健东)  
 > 🖥️ 环境：Windows 11 + 华为鸿蒙
 
@@ -84,6 +84,9 @@ MEMORY.md            # 长期记忆（自动整理）
 | `github` | GitHub 操作（issues、PR、CI 等） |
 | `weather` | 查询天气 |
 | `healthcheck` | 安全审计和系统检查 |
+| `gh-issues` | 自动处理 GitHub issues（修复 + PR） |
+| `node-connect` | 诊断节点连接问题（Android/iOS/macOS） |
+| `skill-creator` | 创建/编辑自定义技能 |
 
 ---
 
@@ -212,6 +215,8 @@ MEMORY.md            # 长期记忆（自动整理）
 
 - **MEMORY.md 只在私聊时读取**，群聊时不会泄露你的个人信息
 - **敏感数据**（API Key、密码）放在 `TOOLS.md`，不要发到群里
+- **API Key 管理**：定期检查 TOOLS.md 中的 API Key 状态，如泄露需立即更换
+  - Gemini API Key 已于 2026-03-30 更换（旧 Key 因泄露被封禁）
 - **群聊时**：AI 只是参与者，不会代替你发言
 
 ---
